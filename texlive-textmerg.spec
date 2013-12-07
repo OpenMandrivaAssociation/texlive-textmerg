@@ -6,7 +6,7 @@
 # catalog-version 2.01
 Name:		texlive-textmerg
 Version:	2.01
-Release:	3
+Release:	4
 Summary:	Merge text in TeX and LaTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/textmerg
