@@ -1,6 +1,6 @@
 Name:		texlive-textmerg
 Version:	20677
-Release:	1
+Release:	2
 Summary:	Merge text in TeX and LaTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/textmerg
