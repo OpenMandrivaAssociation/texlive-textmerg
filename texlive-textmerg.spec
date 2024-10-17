@@ -3,7 +3,7 @@ Version:	20677
 Release:	2
 Summary:	Merge text in TeX and LaTeX
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/textmerg
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/textmerg
 License:	PD
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/textmerg.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/textmerg.doc.r%{version}.tar.xz
